@@ -617,7 +617,7 @@ export default function App() {
       <div className="bic-wrap">
         <div className="hdr">
           <div className="brand">
-            <span className="kick">Merchandising · Basket Intake</span>
+            <span className="kick">Auto · Basket Intake</span>
             <h1>Basket → Database Console</h1>
             <p>Turn a Carrefour <code style={{fontFamily:"var(--mono)",fontSize:12}}>ExportDetail</code> into database-ready rows: parsed, routed, enriched from your current book, and flagged for the fields that still need a PSS.</p>
           </div>
